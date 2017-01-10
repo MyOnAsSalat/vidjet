@@ -1,0 +1,15 @@
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.vb
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\Application.g.vb
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Resources.resources
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.vbproj.GenerateResource.Cache
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\Application.baml
+c:\c\WpfApplication2\WpfApplication2\bin\Debug\Лена.exe.config
+c:\c\WpfApplication2\WpfApplication2\bin\Debug\Лена.exe
+c:\c\WpfApplication2\WpfApplication2\bin\Debug\Лена.pdb
+c:\c\WpfApplication2\WpfApplication2\bin\Debug\Лена.xml
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\Лена_MarkupCompile.cache
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\Лена.g.resources
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\Лена.exe
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\Лена.xml
+c:\c\WpfApplication2\WpfApplication2\obj\Debug\Лена.pdb

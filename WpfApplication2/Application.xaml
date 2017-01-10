@@ -1,0 +1,11 @@
+﻿<Application x:Class="Application"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <BitmapImage x:Key="ltab" >pack://siteoforigin:,,,/Resources/tabv.png</BitmapImage>
+        <BitmapImage x:Key="ImageSource1" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="c:\c\WpfApplication2\WpfApplication2\Resources\tabv.png"/>
+
+    </Application.Resources>
+</Application>

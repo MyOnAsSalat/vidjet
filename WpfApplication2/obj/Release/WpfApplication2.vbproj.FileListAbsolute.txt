@@ -1,0 +1,101 @@
+c:\c\WpfApplication2\WpfApplication2\obj\Release\MainWindow.baml
+c:\c\WpfApplication2\WpfApplication2\obj\Release\Application.baml
+c:\c\WpfApplication2\WpfApplication2\obj\Release\MainWindow.g.vb
+c:\c\WpfApplication2\WpfApplication2\obj\Release\Application.g.vb
+c:\c\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.Resources.resources
+c:\c\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.vbproj.GenerateResource.Cache
+C:\c\WpfApplication2\WpfApplication2\bin\Release\Виджет.exe.config
+C:\c\WpfApplication2\WpfApplication2\bin\Release\Виджет.exe
+C:\c\WpfApplication2\WpfApplication2\bin\Release\Виджет.pdb
+C:\c\WpfApplication2\WpfApplication2\bin\Release\Виджет.xml
+C:\c\WpfApplication2\WpfApplication2\obj\Release\Виджет_MarkupCompile.cache
+C:\c\WpfApplication2\WpfApplication2\obj\Release\Виджет.g.resources
+C:\c\WpfApplication2\WpfApplication2\obj\Release\Виджет.exe
+C:\c\WpfApplication2\WpfApplication2\obj\Release\Виджет.xml
+C:\c\WpfApplication2\WpfApplication2\obj\Release\Виджет.pdb
+C:\WpfApplication2\WpfApplication2\bin\Release\Виджет.exe.config
+C:\WpfApplication2\WpfApplication2\obj\Release\Виджет.exe
+C:\WpfApplication2\WpfApplication2\obj\Release\Виджет.xml
+C:\WpfApplication2\WpfApplication2\obj\Release\Виджет.pdb
+C:\WpfApplication2\WpfApplication2\bin\Release\Виджет.exe
+C:\WpfApplication2\WpfApplication2\bin\Release\Виджет.pdb
+C:\WpfApplication2\WpfApplication2\bin\Release\Виджет.xml
+C:\WpfApplication2\WpfApplication2\obj\Release\MainWindow.baml
+C:\WpfApplication2\WpfApplication2\obj\Release\Application.baml
+C:\WpfApplication2\WpfApplication2\obj\Release\MainWindow.g.vb
+C:\WpfApplication2\WpfApplication2\obj\Release\Application.g.vb
+C:\WpfApplication2\WpfApplication2\obj\Release\Виджет_MarkupCompile.cache
+C:\WpfApplication2\WpfApplication2\obj\Release\Виджет.g.resources
+C:\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.Resources.resources
+C:\WpfApplication2\WpfApplication2\obj\Release\WpfApplication2.vbproj.GenerateResource.Cache
+D:\dropbox\Dropbox\Исходники виджета\WpfApplication2\bin\Release\Виджет.exe.config
+D:\dropbox\Dropbox\Исходники виджета\WpfApplication2\obj\Release\Виджет.exe
+D:\dropbox\Dropbox\Исходники виджета\WpfApplication2\obj\Release\Виджет.xml
+D:\dropbox\Dropbox\Исходники виджета\WpfApplication2\obj\Release\Виджет.pdb
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.exe.config
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.exe
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.xml
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.pdb
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.exe
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.pdb
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.xml
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\MainWindow.baml
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Application.baml
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\MainWindow.g.vb
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Application.g.vb
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет_MarkupCompile.cache
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.g.resources
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.Resources.resources
+D:\dropbox\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.vbproj.GenerateResource.Cache
+D:\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.exe.config
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.exe
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.xml
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.pdb
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.exe.config
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.exe
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.xml
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.pdb
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.exe
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.pdb
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.xml
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\MainWindow.baml
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Application.baml
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\MainWindow.g.vb
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Application.g.vb
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет_MarkupCompile.cache
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.g.resources
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.Resources.resources
+C:\Users\masterpc\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.vbproj.GenerateResource.Cache
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\MainWindow.baml
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Application.baml
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\MainWindow.g.vb
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Application.g.vb
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет_MarkupCompile.cache
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\Виджет.g.resources
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.Resources.resources
+D:\Dropbox\Исходники виджета ES\WpfApplication2\obj\Release\WpfApplication2.vbproj.GenerateResource.Cache
+D:\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.exe
+D:\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.pdb
+D:\Dropbox\Исходники виджета ES\WpfApplication2\bin\Release\Виджет.xml
+D:\Исходники виджета ES 2\WpfApplication2\bin\Release\Виджет.exe.config
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\Виджет.exe
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\Виджет.xml
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\Виджет.pdb
+D:\Исходники виджета ES 2\WpfApplication2\bin\Release\Виджет.exe
+D:\Исходники виджета ES 2\WpfApplication2\bin\Release\Виджет.pdb
+D:\Исходники виджета ES 2\WpfApplication2\bin\Release\Виджет.xml
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\WpfApplication2.vbprojResolveAssemblyReference.cache
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\MainWindow.baml
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\Application.baml
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\MainWindow.g.vb
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\Application.g.vb
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\Виджет_MarkupCompile.cache
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\Виджет.g.resources
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\WpfApplication2.Resources.resources
+D:\Исходники виджета ES 2\WpfApplication2\obj\Release\WpfApplication2.vbproj.GenerateResource.Cache
+D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApplication2\bin\Release\Виджет.exe.config
+D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApplication2\obj\Release\Виджет.exe
+D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApplication2\obj\Release\Виджет.xml
+D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApplication2\obj\Release\Виджет.pdb
