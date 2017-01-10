@@ -1,6 +1,6 @@
 ﻿Imports System.Windows.Threading
 Imports System.IO
-
+'ты пидор
 Class MainWindow
     Dim date_dmy As Date = Now
     Dim USERNAME As String = "Юзер"

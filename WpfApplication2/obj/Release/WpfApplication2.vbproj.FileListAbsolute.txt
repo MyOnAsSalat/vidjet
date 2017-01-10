@@ -99,3 +99,7 @@ D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApp
 D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApplication2\obj\Release\Виджет.exe
 D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApplication2\obj\Release\Виджет.xml
 D:\Dropbox\@Projects\Виджет\Универсальный виджет\WpfApplication2\obj\Release\Виджет.pdb
+C:\Users\NOVA\Desktop\vidjet\WpfApplication2\bin\Release\Виджет.exe.config
+C:\Users\NOVA\Desktop\vidjet\WpfApplication2\obj\Release\Виджет.exe
+C:\Users\NOVA\Desktop\vidjet\WpfApplication2\obj\Release\Виджет.xml
+C:\Users\NOVA\Desktop\vidjet\WpfApplication2\obj\Release\Виджет.pdb
